@@ -5,6 +5,7 @@
   "main": "run-all.js",
   "scripts": {
     "dev": "node run-all.js",
-    "start": "node run-all.js"
+    "start": "node run-all.js",
+    "build": "npm --prefix frontend run build"
   }
 }
