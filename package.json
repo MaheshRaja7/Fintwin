@@ -1,0 +1,10 @@
+{
+  "name": "fintwin-ai-platform",
+  "version": "1.0.0",
+  "description": "FinTwin AI - Personal Financial Intelligence & Predictive Forecasting Platform",
+  "main": "run-all.js",
+  "scripts": {
+    "dev": "node run-all.js",
+    "start": "node run-all.js"
+  }
+}

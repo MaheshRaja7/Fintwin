@@ -1,0 +1,21 @@
+# Dependencies and local environments
+frontend/node_modules/
+ml-service/venv/
+
+# Generated application output
+frontend/.next/
+frontend/out/
+
+# Local configuration and runtime files
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
